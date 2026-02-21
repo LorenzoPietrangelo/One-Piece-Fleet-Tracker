@@ -1,222 +1,82 @@
 [
   {
-    "id": 1,
-    "name": "Pirati di Cappello di Paglia",
-    "username": "Thousand Sunny",
-    "address": {
-      "geo": { "lat": "5.0", "lng": "-10.5" }
-    },
-    "company": {
-      "name": "Luffy, Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, Brook, Jinbe"
+    "id_barca": 1,
+    "nome_barca": "Thousand Sunny",
+    "nome_capitano": "Monkey D. Luffy",
+    "nomi_membri": "Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, Brook, Jinbe",
+    "posizione": {
+      "lat": "12.3456",
+      "lng": "45.6789"
     }
   },
   {
-    "id": 2,
-    "name": "Pirati di Barbanera",
-    "username": "Saber of Xebec",
-    "address": {
-      "geo": { "lat": "15.0", "lng": "25.0" }
-    },
-    "company": {
-      "name": "Marshall D. Teach, Shiryu, Van Augur, Burgess, Doc Q, Laffitte, Kuzan"
+    "id_barca": 2,
+    "nome_barca": "Red Force",
+    "nome_capitano": "Shanks",
+    "nomi_membri": "Benn Beckman, Lucky Roux, Yasopp, Rockstar",
+    "posizione": {
+      "lat": "23.1234",
+      "lng": "78.4321"
     }
   },
   {
-    "id": 3,
-    "name": "Pirati del Rosso",
-    "username": "Red Force",
-    "address": {
-      "geo": { "lat": "-10.0", "lng": "-45.0" }
-    },
-    "company": {
-      "name": "Shanks, Benn Beckman, Lucky Roux, Yasopp, Limejuice, Bonk Punch"
+    "id_barca": 3,
+    "nome_barca": "Moby Dick",
+    "nome_capitano": "Edward Newgate (Barbabianca)",
+    "nomi_membri": "Marco, Ace, Vista, Jozu, Thatch, Izo, Haruta",
+    "posizione": {
+      "lat": "34.8765",
+      "lng": "12.3456"
     }
   },
   {
-    "id": 4,
-    "name": "Cross Guild",
-    "username": "Big Top",
-    "address": {
-      "geo": { "lat": "-30.0", "lng": "12.0" }
-    },
-    "company": {
-      "name": "Buggy, Dracule Mihawk, Sir Crocodile, Mr. 3, Alvida, Cabaji"
+    "id_barca": 4,
+    "nome_barca": "Perfuma",
+    "nome_capitano": "Trafalgar D. Water Law",
+    "nomi_membri": "Bepo, Shachi, Penguin, Jean Bart",
+    "posizione": {
+      "lat": "9.8765",
+      "lng": "56.7890"
     }
   },
   {
-    "id": 5,
-    "name": "Pirati di Barbabianca",
-    "username": "Moby Dick",
-    "address": {
-      "geo": { "lat": "45.0", "lng": "60.0" }
-    },
-    "company": {
-      "name": "Edward Newgate, Marco, Ace, Jozu, Vista, Izou"
+    "id_barca": 5,
+    "nome_barca": "Victoria Punk",
+    "nome_capitano": "Eustass Kid",
+    "nomi_membri": "Killer, Wire, Heat, Hawkins",
+    "posizione": {
+      "lat": "15.4321",
+      "lng": "33.1234"
     }
   },
   {
-    "id": 6,
-    "name": "Pirati delle Cento Bestie",
-    "username": "Onigashima",
-    "address": {
-      "geo": { "lat": "-15.0", "lng": "95.0" }
-    },
-    "company": {
-      "name": "Kaido, King, Queen, Jack, Ulti, Page One, Black Maria"
+    "id_barca": 6,
+    "nome_barca": "Liberal Hind",
+    "nome_capitano": "Jewelry Bonney",
+    "nomi_membri": "Gyogyo, Blumarine",
+    "posizione": {
+      "lat": "5.6789",
+      "lng": "100.1234"
     }
   },
   {
-    "id": 7,
-    "name": "Pirati di Big Mom",
-    "username": "Queen Mama Chanter",
-    "address": {
-      "geo": { "lat": "20.0", "lng": "-80.0" }
-    },
-    "company": {
-      "name": "Charlotte Linlin, Katakuri, Smoothie, Cracker, Perospero, Oven"
+    "id_barca": 7,
+    "nome_barca": "Nostra Castello",
+    "nome_capitano": "Capone Bege",
+    "nomi_membri": "Vito, Gotti, Lola",
+    "posizione": {
+      "lat": "20.9876",
+      "lng": "67.5432"
     }
   },
   {
-    "id": 8,
-    "name": "Pirati di Roger",
-    "username": "Oro Jackson",
-    "address": {
-      "geo": { "lat": "5.0", "lng": "-120.0" }
-    },
-    "company": {
-      "name": "Gol D. Roger, Silvers Rayleigh, Scopper Gaban, Crocus, Kozuki Oden"
-    }
-  },
-  {
-    "id": 9,
-    "name": "Pirati Heart",
-    "username": "Polar Tang",
-    "address": {
-      "geo": { "lat": "60.0", "lng": "10.0" }
-    },
-    "company": {
-      "name": "Trafalgar Law, Bepo, Shachi, Penguin, Jean Bart"
-    }
-  },
-  {
-    "id": 10,
-    "name": "Pirati di Kidd",
-    "username": "Victoria Punk",
-    "address": {
-      "geo": { "lat": "-50.0", "lng": "-15.0" }
-    },
-    "company": {
-      "name": "Eustass Kidd, Killer, Heat, Wire"
-    }
-  },
-  {
-    "id": 11,
-    "name": "Donquixote Family",
-    "username": "Numancia Flamingo",
-    "address": {
-      "geo": { "lat": "40.0", "lng": "130.0" }
-    },
-    "company": {
-      "name": "Doflamingo, Trebol, Diamante, Pica, Sugar, Monet"
-    }
-  },
-  {
-    "id": 12,
-    "name": "Pirati Kuja",
-    "username": "Perfume Yuda",
-    "address": {
-      "geo": { "lat": "-70.0", "lng": "40.0" }
-    },
-    "company": {
-      "name": "Boa Hancock, Boa Sandersonia, Boa Marigold, Gloriosa"
-    }
-  },
-  {
-    "id": 13,
-    "name": "Pirati di Thriller Bark",
-    "username": "Thriller Bark",
-    "address": {
-      "geo": { "lat": "80.0", "lng": "-30.0" }
-    },
-    "company": {
-      "name": "Gekko Moria, Perona, Absalom, Dr. Hogback"
-    }
-  },
-  {
-    "id": 14,
-    "name": "Pirati del Sole",
-    "username": "Sun Ship",
-    "address": {
-      "geo": { "lat": "-5.0", "lng": "5.0" }
-    },
-    "company": {
-      "name": "Fisher Tiger, Jinbe, Aladdin, Arlong, Macro"
-    }
-  },
-  {
-    "id": 15,
-    "name": "Pirati di Rocks",
-    "username": "Flagship of Rocks",
-    "address": {
-      "geo": { "lat": "10.0", "lng": "150.0" }
-    },
-    "company": {
-      "name": "Rocks D. Xebec, Barbabianca, Kaido, Big Mom, Shiki"
-    }
-  },
-  {
-    "id": 16,
-    "name": "Pirati del Leone Dorato",
-    "username": "Island Ship",
-    "address": {
-      "geo": { "lat": "-20.0", "lng": "170.0" }
-    },
-    "company": {
-      "name": "Shiki, Indigo, Scarlet"
-    }
-  },
-  {
-    "id": 17,
-    "name": "Baroque Works",
-    "username": "Rainbase Casino",
-    "address": {
-      "geo": { "lat": "35.0", "lng": "35.0" }
-    },
-    "company": {
-      "name": "Sir Crocodile, Mr. 1, Miss All Sunday, Mr. 2 Bon Clay"
-    }
-  },
-  {
-    "id": 18,
-    "name": "Pirati di Drake",
-    "username": "Hiraeth",
-    "address": {
-      "geo": { "lat": "60.0", "lng": "-60.0" }
-    },
-    "company": {
-      "name": "X Drake, Membri SWORD"
-    }
-  },
-  {
-    "id": 19,
-    "name": "Pirati di Hawkins",
-    "username": "Grudge Dorf",
-    "address": {
-      "geo": { "lat": "80.0", "lng": "100.0" }
-    },
-    "company": {
-      "name": "Basil Hawkins, Faust"
-    }
-  },
-  {
-    "id": 20,
-    "name": "Pirati On-Air",
-    "username": "Stay Tune",
-    "address": {
-      "geo": { "lat": "30.0", "lng": "-170.0" }
-    },
-    "company": {
-      "name": "Scratchmen Apoo, Tribù Braccialunghe"
+    "id_barca": 8,
+    "nome_barca": "Going Merry",
+    "nome_capitano": "Monkey D. Luffy",
+    "nomi_membri": "Zoro, Nami, Usopp, Sanji, Chopper, Robin",
+    "posizione": {
+      "lat": "40.1234",
+      "lng": "21.9876"
     }
   }
 ]
