@@ -16,7 +16,7 @@
     "nomi_membri": "Benn Beckman, Lucky Roux, Yasopp, Rockstar",
     "posizione": {
       "lat": "23.1234",
-      "lng": "78.4321"
+      "lng": "-78.4321"
     }
   },
   {
@@ -46,7 +46,7 @@
     "nomi_membri": "Killer, Wire, Heat, Hawkins",
     "posizione": {
       "lat": "15.4321",
-      "lng": "33.1234"
+      "lng": "-33.1234"
     }
   },
   {
@@ -56,7 +56,7 @@
     "nomi_membri": "Gyogyo, Blumarine",
     "posizione": {
       "lat": "5.6789",
-      "lng": "100.1234"
+      "lng": "108.1234"
     }
   },
   {
@@ -76,7 +76,97 @@
     "nomi_membri": "Zoro, Nami, Usopp, Sanji, Chopper, Robin",
     "posizione": {
       "lat": "40.1234",
-      "lng": "21.9876"
+      "lng": "-21.9876"
+    }
+  },
+  {
+    "id_barca": 9,
+    "nome_barca": "Polar Tang",
+    "nome_capitano": "Trafalgar D. Water Law",
+    "nomi_membri": "Bepo, Shachi, Penguin, Ikkaku, Uni",
+    "posizione": {
+      "lat": "-5.4321",
+      "lng": "130.8765"
+    }
+  },
+  {
+    "id_barca": 10,
+    "nome_barca": "Big Top",
+    "nome_capitano": "Buggy il Clown",
+    "nomi_membri": "Mohji, Cabaji, Alvida, Richie",
+    "posizione": {
+      "lat": "18.2345",
+      "lng": "-65.4321"
+    }
+  },
+  {
+    "id_barca": 11,
+    "nome_barca": "Dreadnaught Sabre",
+    "nome_capitano": "Don Krieg",
+    "nomi_membri": "Gin, Pearl",
+    "posizione": {
+      "lat": "30.5678",
+      "lng": "58.1234"
+    }
+  },
+  {
+    "id_barca": 12,
+    "nome_barca": "Coffin Boat",
+    "nome_capitano": "Gecko Moria",
+    "nomi_membri": "Perona, Absalom, Hogback, Ryuma",
+    "posizione": {
+      "lat": "-12.6789",
+      "lng": "95.3456"
+    }
+  },
+  {
+    "id_barca": 13,
+    "nome_barca": "Striker",
+    "nome_capitano": "Portgas D. Ace",
+    "nomi_membri": "Masked Deuce",
+    "posizione": {
+      "lat": "8.9012",
+      "lng": "-140.5678"
+    }
+  },
+  {
+    "id_barca": 14,
+    "nome_barca": "Grudge Dolph",
+    "nome_capitano": "Sengoku",
+    "nomi_membri": "Garp, Tsuru, Onigumo",
+    "posizione": {
+      "lat": "27.3456",
+      "lng": "142.6789"
+    }
+  },
+  {
+    "id_barca": 15,
+    "nome_barca": "Oro Jackson",
+    "nome_capitano": "Gol D. Roger",
+    "nomi_membri": "Silvers Rayleigh, Scopper Gaban, Crocus, Shanks, Buggy",
+    "posizione": {
+      "lat": "-45.1234",
+      "lng": "-170.4321"
+    }
+  },
+  {
+    "id_barca": 16,
+    "nome_barca": "Going Luffy-senpai",
+    "nome_capitano": "Bartolomeo",
+    "nomi_membri": "Gambia, Cabbage, Drip",
+    "posizione": {
+      "lat": "-8.7654",
+      "lng": "115.2345"
+    }
+  },
+  {
+    "id_barca": 999,
+    "nome_barca": "Nave dell'Aquila Volante",
+    "nome_capitano": "Luca D. Salvi",
+    "nomi_membri": "Prof. Algoritmi, Prof. Basi di Dati, Prof. Analisi Matematica, Prof. Ingegneria del Software, Prof. Sistemi Operativi, Prof. Architettura degli Elaboratori, Prof. Programmazione ad Oggetti",
+    "posizione": {
+      "lat": "42.3564",
+      "lng": "14.4231"
     }
   }
 ]
